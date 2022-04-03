@@ -1,5 +1,5 @@
-.ls {text-align:left;}
-.rs {text-align:right;}
-.ms {text-align:center;}
-.cs {text-align:center;}
+.left {text-align:left;}
+.right {text-align:right;}
+.middle {text-align:center;}
+.center {text-align:center;}
 .main {text-align:justify;}
